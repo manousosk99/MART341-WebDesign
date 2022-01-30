@@ -1,0 +1,8 @@
+1. A directory is like a folder because it holds files, expect for directories should be used when discussing file systems.
+
+2. Version control systems (VCS) are useful because they help you keep track of the changes you make to your project over time. 
+VCS allows you to view and compare different versions.
+
+3. Using the broader definition of medium, I would say my favorite is shorter (6-20min) videos, especially on YouTube. 
+I like shorter videos because if made well their content can be enterntaining, educational, news, etc. 
+For example, I recently got into volleyball and short tutorial videos on YouTube have helped me improve my game. 
