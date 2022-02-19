@@ -1,5 +1,5 @@
-![My Screenshot 1] (./images/MART341-homework-assignment-05-index.png)
-![My Screenshot 2] (./images/MART341-homework-assignment-05-about.png)
+![My Screenshot 1](./images/MART341-homework-assignment-05-index.png)
+![My Screenshot 2](./images/MART341-homework-assignment-05-about.png)
 
 Tell me about a website you visited using The Wayback Machine.
 What year was it from? How is the older version different from the new version in terms of its overall design?
