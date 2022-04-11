@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Beau';
+  src: url('../fonts/BeauRivage-Regular.ttf') format:('truetype');
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Grape';
+  src: url('../fonts/GrapeNuts-Regular.ttf') format:('truetype');
+  font-weight: 500;
+}
