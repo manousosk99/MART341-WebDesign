@@ -1,0 +1,126 @@
+#title1:hover{
+  letter-spacing: 1em;
+  color: #F8D4B7;
+  font-family: Grape;
+}
+
+#title2:active{
+  color: #FF7200;
+  font-family: Beau;
+}
+
+
+
+body {
+  background-color: #F8D4B7;
+  font-family: sans-serif;
+  text-align: center;
+}
+
+div {
+  border: 4px solid #FF7200;
+}
+
+img {
+  border-radius: 25%;
+  border: 4px solid;
+}
+
+.inspiration {
+  background-color: #FF7200;
+}
+
+#title2 {
+  padding: 10px;
+  margin: auto;
+  font-size: 25px;
+}
+
+#title1 {
+  padding: 10px;
+  margin: auto;
+  font-size: 35px;
+}
+
+/*menu stuff*/
+header {
+  position: fixed;
+  width:80%
+  height: 4em;
+  text-align: center;
+  font-family: Grape;
+}
+.menu-item  {
+  display: inline-block;
+  margin: 1em .5em;
+  padding: 0.5em 1em;
+  border-radius: 1em;
+  min-width: 6em;
+  text-align: center;
+  background-color: #F8D4B7;
+  border-radius: 25%;
+  border: 2px solid;
+}
+
+.menu-item a {
+  color: white;
+  text-decoration: none;
+}
+
+.menu-item :hover {
+  background-color: #FF7200;
+}
+
+.dropdown {
+  display: inline-block;
+}
+
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  margin: 0.5em 0 0 -1em;
+  color: #000;
+  z-index: 1;
+}
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+.drop-content a{
+  color: #000;
+}
+
+.dropdown-item {
+  display: block;
+  text-align: left;
+  margin: 0;
+  padding: 0.5em 1em 0.5em 1em;
+  min-width: 6em;
+  background-color: #F8D4B7;
+  border-radius: 25%;
+  border: 2px solid;
+}
+
+.dropdown-item:hover {
+  color: black;
+  background-color: #F8D4B7;
+  border-radius: 25%;
+  border: 2px solid;
+}
+
+#foundation:hover {
+  border-radius: 0em 0em 1em 1em;
+}
+
+.site-name {
+  color: #F8D4B7;
+  float: left;
+  min-width: 6em;
+  padding: 0.5 1em;
+  letter-spacing: 0.2em;
+  font-weight: bold;
+  margin: 1em .2em;
+  font-size: 20px;
+}
