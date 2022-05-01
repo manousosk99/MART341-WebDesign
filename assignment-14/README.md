@@ -1,0 +1,2 @@
+How did your user testing sessions go? The testing sessions went really well, the users werent able to find any bugs and everything seemed to be working
+What changes (if any) did you make to your website based on the user feedback you received? I received feedback to change color of certain things in order to aid with clarity, such as changing text color and revamping the submit button on the contact page. I also edited the share page to make it more realistic. 
